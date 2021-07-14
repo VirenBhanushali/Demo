@@ -1,0 +1,11 @@
+console.log("Hellew Console!!!!!!");
+document.write("Hello HTML");
+var general;
+console.log("variable type "+typeof general);
+general  =  6;
+console.log(typeof general);
+general =  false;
+console.log(typeof general);
+general = ["earth","moon","sun","star"];
+console.log(general);
+console.log("This is the usage of length operator and concatenation operator :"+general.length);
